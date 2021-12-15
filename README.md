@@ -18,7 +18,10 @@ The ML methods developed are:
 4. Decision Tree (DT)
 5. Random Forest (RF)
 
-[Here the link to the colab](https://colab.research.google.com/github/ilante/AML_91934_exam/blob/main/Englander_AML_1_and_2.ipynb)
+
+[View notebook in GitHub](https://github.com/ilante/AML_91934_exam/blob/main/Englander_AML_1_and_2.ipynb)
+
+[Click here to open project in colab](https://colab.research.google.com/drive/1sfiID3MhXOyF_xI_Q4U80VecAwBIR6YX?usp=sharing)
 
 Below an example of the input data: 
 
