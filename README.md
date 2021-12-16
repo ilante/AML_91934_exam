@@ -2,9 +2,9 @@
 
 ##### My First Machine Learning Project
 
-## 88407 Appliend Machine Learning 
+## 88407 Applied Machine Learning 
 ## And
-## 91934 Appliend Machine Learning - ADVANCED
+## 91934 Applied Machine Learning - ADVANCED
 
 ### International Master of Bioinformatics, University of Bologna
 
